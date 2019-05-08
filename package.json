@@ -46,7 +46,7 @@
     "chalk": "^2.2.0",
     "commander": "^2.9.0",
     "fast-json-patch": "^2.0.2",
-    "glob": "^7.1.1",
+    "glob": "^7.1.4",
     "iterare": "^1.1.2",
     "jaeger-client": "^3.5.3",
     "lodash": "^4.17.4",
