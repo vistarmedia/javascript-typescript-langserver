@@ -75,7 +75,7 @@ export class LocalFileSystem implements FileSystem {
                 cwd,
                 nodir: true,
                 matchBase: true,
-                follow: true,
+                follow: false,
             })
             globber.on('match', (file: string) => {
                 subscriber.next(file)
